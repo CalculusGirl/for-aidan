@@ -1,0 +1,10 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - GiftRunner",
+			"request": "launch",
+			"mainClass": "GiftRunner"
+		}
+	]
+}
